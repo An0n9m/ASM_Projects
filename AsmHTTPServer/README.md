@@ -1,4 +1,4 @@
-// Copyright (C) 2024 an0n9m. All rights reserved.
+// Copyright (C) 2024 An0n9m. All rights reserved.
 
 # Simple HTTP Server
 
