@@ -24,7 +24,8 @@ This digital clock has **6 modes** that are controlled by the user:
 
 ## Emulation Screenshot
 
-![Screenshot 2024-12-08 180218](https://github.com/user-attachments/assets/2ebef11c-19ca-48ef-9db7-f2a968f564ed)
+![Screenshot 2024-12-08 210325](https://github.com/user-attachments/assets/662609bc-c6e1-48f1-b787-a83675f5d7f5)
+
 
 ## License
 
