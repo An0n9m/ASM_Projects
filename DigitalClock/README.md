@@ -24,8 +24,8 @@ This digital clock has **6 modes** that are controlled by the user:
 
 ## Emulation Screenshot
 
-![Proteus Emulation](path-to-your-image.png)
+![Screenshot 2024-12-08 180218](https://github.com/user-attachments/assets/2ebef11c-19ca-48ef-9db7-f2a968f564ed)
 
 ## License
 
-This project is licensed under the GNU General Public License (GPL) - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License (GPL)
