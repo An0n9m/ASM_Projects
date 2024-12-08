@@ -10,19 +10,19 @@ Generates random numbers between 1 and 6.
 
 Simulates a real dice roll using a microcontroller.
 
-Compatible with Atmel Studio for compilation.
+Compatible with Microchip Studio for compilation.
 
 Can be emulated in Proteus to visualize the design and functionality.
 
 Requirements
 
-Atmel Studio: Use Atmel Studio to write, compile, and debug the assembly code.
+Microchip Studio: Use Microchip Studio to write, compile, and debug the assembly code.
 
 Proteus: Emulate the application and visualize the hardware behavior.
 
 How to Use
 
-Open the provided assembly code in Atmel Studio.
+Open the provided assembly code in Microchip Studio.
 
 Compile the code to generate the hex file.
 
